@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react ,js ,ts ,css ,html**
 
-- 📫 How to reach me **aliahmed60345@gmail.com**
+- 📫 How to reach me **dev.20.ali@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jjt_QEfS4YQEptmusuady9hc8HDMzpzL/view](https://drive.google.com/file/d/1jjt_QEfS4YQEptmusuady9hc8HDMzpzL/view)
 
